@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning python and C++.<br>
+- 🌱 C++.<br>
 
 
 
