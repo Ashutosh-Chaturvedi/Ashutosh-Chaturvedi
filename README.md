@@ -2,15 +2,6 @@
 
 
 
-- 🌱 C++.<br>
-
-
-
-- 📫 Email- ashutoshchaturvedi734@gmail.com<br>
-
-
-
-
 
  
 
