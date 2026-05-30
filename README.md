@@ -37,8 +37,8 @@ I don't chase frameworks. I chase understanding — how systems actually work un
 Real-time chat backend with group rooms, DMs, WebSocket messaging, Redis-based presence, and delivery receipts.
 `FastAPI` `PostgreSQL` `Redis` `WebSockets` `SQLAlchemy` `Docker`
 
-**[Habit Tracker](https://github.com/Ashutosh-Chaturvedi/habit-trakcer)**
-Full-stack habit tracking app with GitHub and LeetCode style contribution heatmaps.
+**[Habit Tracker](https://github.com/Ashutosh-Chaturvedi/habit-tracker)**
+Full-stack habit tracking app with GitHub and LeetCode style contribution heatmaps. </br>
 `React` `Vite` `Tailwind CSS` `FastAPI` `PostgreSQL` · Deployed on Render
 
 **[Redis-Based Job Queue](https://github.com/Ashutosh-Chaturvedi/job-queue-api)**
