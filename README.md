@@ -72,7 +72,6 @@ Autonomous Agents          Networking                 Decision Making Under Unce
 ## DSA
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ashutosh-Chaturvedi?theme=dark&font=Karma&ext=contest)](https://leetcode.com/Ashutosh-Chaturvedi)
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Ashutosh-Chaturvedi&theme=dark&border=no-border)](https://leetcode.com/Ashutosh-Chaturvedi)
 
 ---
 
